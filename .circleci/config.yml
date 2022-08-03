@@ -36,4 +36,3 @@ workflows:
     jobs:
       - say-hello
       - create_infrastructure
-creaate
